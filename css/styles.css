@@ -1,0 +1,70 @@
+article#container-header{
+    max-width: 1000px;
+    margin: auto;
+}
+
+article#container-header figure{
+    float: left;
+    position: relative;
+    left: 100px;
+    top: 30px;
+}
+
+article#container-header nav{
+    float: right;
+    position: relative;
+    right: 100px;
+    top: 90px; 
+}
+
+article#container-header nav a{
+    color: black;
+    text-decoration: none;
+    margin-right: 20px;
+
+}
+
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+article#container-header nav button{
+    background-color: rgba(228,76,101,255);
+    color: white;
+    border: none;
+    padding: 6px;
+    padding-left:15px ;
+    padding-right:15px ;
+    border-radius: 5px;
+}
+
+
+
+header{
+    height: 300px;
+}
+
+
+main{
+    padding: 200px;
+}
+
+
+
+
+footer{
+    text-align: center;
+    background-color: #555;
+    
+}
+body{
+    margin: 0px;
+}
+footer{
+    padding: 80px;
+    
+}
+footer p.label{
+    color: white;
+    margin-top: 30px;
+}
